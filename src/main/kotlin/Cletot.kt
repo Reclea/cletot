@@ -24,7 +24,7 @@ val BugReport = mutableListOf<String>()
 var Serveur = "Erreur Serveur/ Reporte le bug avec le !s"
 var PhraseSecret = Aleatoire.nextInt(10000)
 fun main() {
-    val api = DiscordApiBuilder().setToken("NjYzMzQ4MDMxMzQ4OTMyNjEz.XhHM_w.0IkMg1W06zd7b0kViFnAs5tGMXI").login().join()
+    val api = DiscordApiBuilder().setToken("TOKEN").login().join()
 
     api.addMessageCreateListener { event ->
 
