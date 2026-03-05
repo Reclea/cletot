@@ -42,4 +42,4 @@ Ce projet m'a permis d'approfondir mes connaissances sur :
 * La mise en place d'une logique de persistance de données robuste.
 
 ---
-© 2026 - Bot de Rappels Discord. Développé avec soin par [Ton Nom].
+© 2026 - Bot de Rappels Discord. Développé avec soin par Moi même.
